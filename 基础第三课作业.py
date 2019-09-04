@@ -1,7 +1,7 @@
 from random import randint
 com_num=randint(0,500)
 count=0
-print(com_num)
+
 while 1:
     try:
         user_num=int(input('请猜一个整数：'))
